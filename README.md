@@ -1,1 +1,1 @@
-# ImageMagickApp
+# gifinator
